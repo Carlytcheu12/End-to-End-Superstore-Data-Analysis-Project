@@ -149,3 +149,8 @@ I am a passionate data analyst and software engineering graduate with an interes
 My background in software engineering, combined with my growing experience in data analytics, allows me to approach projects with both technical and analytical thinking. I am continuously developing my skills in Excel, Power BI, Python, SQL, and data science to build impactful, data-driven solutions.
 
 I am particularly interested in business analytics, dashboard development, and using data to support strategic decision-making and innovation.
+
+## Contact
+
+- GitHub: (https://github.com/Carlytcheu12)
+- LinkedIn: https://www.linkedin.com/in/carlane-tcheuffa-njiena-263941381/
